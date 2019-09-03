@@ -1,0 +1,903 @@
+﻿Log file open, 09/03/19 15:55:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PetitContest12
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184212
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Could not determine HMD audio input device
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=立野ゆう -epicuserid=527a58163b7f46c2907719585f422cb1 -epiclocale=ja-JP
+LogInit: Base Directory: E:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Engine.ini]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Engine.ini]
+[2019.09.03-06.55.33:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Engine.ini]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Engine.ini]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.03-06.55.33:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Engine.ini]
+[2019.09.03-06.55.33:081][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Engine.ini]
+[2019.09.03-06.55.33:084][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.03-06.55.33:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.03-06.55.33:085][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.03-06.55.33:085][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.03-06.55.33:085][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.03-06.55.33:098][  0]LogHAL: Display: Platform has ~ 8 GB [8543051776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.03-06.55.33:099][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.03-06.55.33:099][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.09.03-06.55.33:099][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.03-06.55.33:100][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Config/Windows/Engine.ini]
+[2019.09.03-06.55.33:100][  0]LogInit: Computer: MYCOMPUTER
+[2019.09.03-06.55.33:101][  0]LogInit: User: kingw
+[2019.09.03-06.55.33:101][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.03-06.55.33:101][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.03-06.55.33:101][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.09.03-06.55.33:101][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.03-06.55.33:101][  0]LogMemory: Process Physical Memory: 101.96 MB used, 101.97 MB peak
+[2019.09.03-06.55.33:101][  0]LogMemory: Process Virtual Memory: 96.62 MB used, 96.62 MB peak
+[2019.09.03-06.55.33:101][  0]LogMemory: Physical Memory: 4888.63 MB used,  3258.66 MB free, 8147.29 MB total
+[2019.09.03-06.55.33:101][  0]LogMemory: Virtual Memory: 4671.33 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.09.03-06.55.33:120][  0]LogInit: Using OS detected language (ja-JP).
+[2019.09.03-06.55.33:120][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.09.03-06.55.33:121][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.09.03-06.55.33:201][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.03-06.55.33:246][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.03-06.55.33:246][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.03-06.55.33:491][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.03-06.55.33:566][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.09.03-06.55.33:566][  0]LogD3D11RHI:       2988/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.03-06.55.33:569][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.03-06.55.33:569][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.03-06.55.33:569][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.03-06.55.33:576][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.03-06.55.33:576][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.03-06.55.33:576][  0]LogWindows: EnumDisplayDevices:
+[2019.09.03-06.55.33:576][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.09.03-06.55.33:577][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.03-06.55.33:577][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.03-06.55.33:577][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.03-06.55.33:577][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.03-06.55.33:577][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.09.03-06.55.33:577][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.09.03-06.55.33:577][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.09.03-06.55.33:577][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.09.03-06.55.33:621][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.03-06.55.33:626][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.03-06.55.33:626][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.03-06.55.33:626][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.03-06.55.33:634][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.03-06.55.33:991][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.03-06.55.34:005][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.03-06.55.34:019][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.03-06.55.34:033][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.03-06.55.34:048][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.03-06.55.34:063][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.03-06.55.34:076][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.03-06.55.34:090][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.03-06.55.34:096][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.03-06.55.34:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.03-06.55.34:190][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.03-06.55.34:244][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.03-06.55.34:244][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.03-06.55.34:279][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.03-06.55.34:279][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.03-06.55.34:294][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.03-06.55.34:310][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.03-06.55.34:325][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.03-06.55.34:339][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.03-06.55.34:388][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.03-06.55.34:388][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.03-06.55.34:388][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.03-06.55.34:397][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.03-06.55.34:440][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Intermediate/Shaders/WorkingDirectory/13476/).
+[2019.09.03-06.55.34:440][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kingw/AppData/Local/Temp/UnrealShaderWorkingDir/1B514F7841389364A4C6CC8E05955925/'.
+[2019.09.03-06.55.34:442][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.03-06.55.34:442][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.03-06.55.34:442][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.03-06.55.35:053][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.03-06.55.35:129][  0]LogDerivedDataCache: Loaded boot cache 0.08s 88MB C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.03-06.55.35:129][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.03-06.55.35:129][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.03-06.55.35:129][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.03-06.55.35:129][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.03-06.55.35:129][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.03-06.55.35:143][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.03-06.55.35:146][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.09.03-06.55.35:159][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.03-06.55.35:159][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.03-06.55.35:159][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.03-06.55.35:186][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.03-06.55.35:187][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.03-06.55.35:188][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.03-06.55.35:288][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2019.09.03-06.55.35:659][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.03-06.55.35:717][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.03-06.55.35:717][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.03-06.55.35:717][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.03-06.55.35:717][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.03-06.55.35:717][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.03-06.55.35:817][  0]LogNetVersion: PetitContest12 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2872054507)
+[2019.09.03-06.55.36:364][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.072074 seconds
+[2019.09.03-06.55.36:373][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.03-06.55.36:373][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.03-06.55.36:373][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.03-06.55.37:406][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.03-06.55.37:435][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.03-06.55.37:558][  0]SourceControl: ソースコントロールは無効です
+[2019.09.03-06.55.37:558][  0]SourceControl: ソースコントロールは無効です
+[2019.09.03-06.55.37:560][  0]SourceControl: ソースコントロールは無効です
+[2019.09.03-06.55.37:561][  0]SourceControl: ソースコントロールは無効です
+[2019.09.03-06.55.38:216][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.03-06.55.38:287][  0]LogOcInput: OculusInput pre-init called
+[2019.09.03-06.55.42:283][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.09.03-06.55.42:283][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.09.03-06.55.42:283][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.09.03-06.55.42:284][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.09.03-06.55.42:450][  0]LogEngine: Initializing Engine...
+[2019.09.03-06.55.42:450][  0]LogHMD: Oculus plugin initialized. Version: 4.22.3-7053642+++UE4+Release-4.22, OVRPlugin: 1.32.0
+[2019.09.03-06.55.42:452][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.03-06.55.42:742][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.03-06.55.42:755][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.03-06.55.42:851][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-06.55.42:876][  0]LogInit: FAudioDevice initialized.
+[2019.09.03-06.55.42:877][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.03-06.55.43:077][  0]LogDerivedDataCache: Saved boot cache 0.20s 72MB C:/Users/kingw/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.03-06.55.43:093][  0]LogInit: Texture streaming: Enabled
+[2019.09.03-06.55.43:111][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.03-06.55.43:142][  0]LogInit: Transaction tracking system initialized
+[2019.09.03-06.55.43:160][  0]BlueprintLog: New page: エディタの読み込み
+[2019.09.03-06.55.43:282][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.09.03-06.55.44:343][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Content/' took 0.01s
+[2019.09.03-06.55.44:343][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.03-06.55.44:343][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.03-06.55.46:461][  0]SourceControl: ソースコントロールは無効です
+[2019.09.03-06.55.46:522][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2019.09.03-06.55.46:744][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.09.03-06.55.46:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.09.03-06.55.46:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.09.03-06.55.46:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.09.03-06.55.46:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.09.03-06.55.46:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.09.03-06.55.46:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.09.03-06.55.46:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.09.03-06.55.46:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.09.03-06.55.47:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.09.03-06.55.47:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.09.03-06.55.47:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.09.03-06.55.47:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.09.03-06.55.47:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.09.03-06.55.47:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.09.03-06.55.47:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.09.03-06.55.47:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.09.03-06.55.47:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.09.03-06.55.47:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Fire01.uasset"
+[2019.09.03-06.55.47:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.09.03-06.55.47:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.09.03-06.55.47:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.09.03-06.55.47:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Light01.uasset"
+[2019.09.03-06.55.47:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.09.03-06.55.47:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Light02.uasset"
+[2019.09.03-06.55.47:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.09.03-06.55.47:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.09.03-06.55.47:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.09.03-06.55.47:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.09.03-06.55.47:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.09.03-06.55.47:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.09.03-06.55.47:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.09.03-06.55.47:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.09.03-06.55.47:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.09.03-06.55.47:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Steam01.uasset"
+[2019.09.03-06.55.47:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.09.03-06.55.48:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.09.03-06.55.48:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.09.03-06.55.48:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.09.03-06.55.48:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.09.03-06.55.48:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.09.03-06.55.48:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.09.03-06.55.48:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.09.03-06.55.48:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.09.03-06.55.48:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.09.03-06.55.48:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.09.03-06.55.48:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.09.03-06.55.48:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.09.03-06.55.48:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.09.03-06.55.48:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.09.03-06.55.48:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.09.03-06.55.48:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.09.03-06.55.50:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.09.03-06.55.50:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.09.03-06.55.50:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.09.03-06.55.50:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.09.03-06.55.50:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.09.03-06.55.50:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Maps/StarterMap.umap"
+[2019.09.03-06.55.51:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.09.03-06.55.51:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.09.03-06.55.51:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.09.03-06.55.51:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.09.03-06.55.51:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.09.03-06.55.51:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.09.03-06.55.51:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.09.03-06.55.51:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.09.03-06.55.51:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.09.03-06.55.51:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.09.03-06.55.51:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.09.03-06.55.51:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.09.03-06.55.51:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.09.03-06.55.51:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.09.03-06.55.51:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.09.03-06.55.51:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.09.03-06.55.51:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.09.03-06.55.51:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.09.03-06.55.51:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.09.03-06.55.51:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.09.03-06.55.51:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.09.03-06.55.51:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.09.03-06.55.51:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.09.03-06.55.51:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.09.03-06.55.51:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.09.03-06.55.51:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.09.03-06.55.51:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.09.03-06.55.52:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.09.03-06.55.52:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.09.03-06.55.52:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.09.03-06.55.52:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.09.03-06.55.52:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.09.03-06.55.52:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.09.03-06.55.52:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.09.03-06.55.52:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.09.03-06.55.52:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.09.03-06.55.52:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.09.03-06.55.52:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.09.03-06.55.52:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.09.03-06.55.52:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.09.03-06.55.52:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.09.03-06.55.52:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.09.03-06.55.52:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.09.03-06.55.52:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.09.03-06.55.52:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.09.03-06.55.52:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.09.03-06.55.52:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.09.03-06.55.52:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.09.03-06.55.52:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.09.03-06.55.52:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.09.03-06.55.52:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.09.03-06.55.52:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.09.03-06.55.52:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.09.03-06.55.52:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.09.03-06.55.52:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.09.03-06.55.53:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.09.03-06.55.53:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.09.03-06.55.53:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.09.03-06.55.53:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.09.03-06.55.53:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.09.03-06.55.53:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.09.03-06.55.53:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.09.03-06.55.53:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.09.03-06.55.53:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.09.03-06.55.53:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.09.03-06.55.53:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Door.uasset"
+[2019.09.03-06.55.53:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.09.03-06.55.53:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.09.03-06.55.53:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.09.03-06.55.53:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.09.03-06.55.53:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.09.03-06.55.53:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.09.03-06.55.53:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.09.03-06.55.53:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.09.03-06.55.53:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.09.03-06.55.53:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.09.03-06.55.53:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.09.03-06.55.53:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.09.03-06.55.53:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.09.03-06.55.53:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.09.03-06.55.54:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.09.03-06.55.54:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.09.03-06.55.54:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.09.03-06.55.54:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.09.03-06.55.54:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.09.03-06.55.54:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.09.03-06.55.54:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.09.03-06.55.54:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.09.03-06.55.54:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.09.03-06.55.54:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.09.03-06.55.54:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.09.03-06.55.54:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.09.03-06.55.54:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.09.03-06.55.54:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.09.03-06.55.54:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.09.03-06.55.54:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.09.03-06.55.54:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.09.03-06.55.54:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.09.03-06.55.54:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.09.03-06.55.54:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.09.03-06.55.54:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.09.03-06.55.54:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.09.03-06.55.54:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.09.03-06.55.54:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.09.03-06.55.54:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.09.03-06.55.54:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.09.03-06.55.55:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.09.03-06.55.55:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.09.03-06.55.55:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.09.03-06.55.55:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.09.03-06.55.55:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.09.03-06.55.55:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.09.03-06.55.55:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.09.03-06.55.55:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.09.03-06.55.55:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.09.03-06.55.55:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.09.03-06.55.55:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.09.03-06.55.55:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.09.03-06.55.56:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.09.03-06.55.56:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.09.03-06.55.56:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.09.03-06.55.56:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.09.03-06.55.56:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.09.03-06.55.56:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.09.03-06.55.56:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.09.03-06.55.57:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.09.03-06.55.57:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.09.03-06.55.57:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.09.03-06.55.57:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.09.03-06.55.57:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.09.03-06.55.57:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.09.03-06.55.57:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.09.03-06.55.57:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.09.03-06.55.57:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.09.03-06.55.57:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.09.03-06.55.57:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.09.03-06.55.58:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.09.03-06.55.58:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.09.03-06.55.58:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.09.03-06.55.58:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.09.03-06.55.58:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.09.03-06.55.58:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.09.03-06.55.58:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.09.03-06.55.58:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.09.03-06.55.58:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.09.03-06.55.59:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.09.03-06.55.59:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.09.03-06.55.59:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.09.03-06.55.59:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.09.03-06.56.00:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.09.03-06.56.00:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.09.03-06.56.00:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.09.03-06.56.01:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.09.03-06.56.01:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.09.03-06.56.01:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.09.03-06.56.01:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.09.03-06.56.01:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.09.03-06.56.01:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.09.03-06.56.01:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.09.03-06.56.01:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.09.03-06.56.02:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.09.03-06.56.02:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.09.03-06.56.02:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.09.03-06.56.02:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.09.03-06.56.02:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.09.03-06.56.02:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.09.03-06.56.02:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.09.03-06.56.03:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.09.03-06.56.03:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.09.03-06.56.04:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.09.03-06.56.04:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.09.03-06.56.04:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.09.03-06.56.05:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.09.03-06.56.05:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.09.03-06.56.05:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.09.03-06.56.05:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.09.03-06.56.05:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.09.03-06.56.05:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.09.03-06.56.05:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.09.03-06.56.05:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.09.03-06.56.06:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.09.03-06.56.06:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.09.03-06.56.06:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.09.03-06.56.07:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.09.03-06.56.07:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.09.03-06.56.08:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.09.03-06.56.08:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.09.03-06.56.08:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.09.03-06.56.08:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.09.03-06.56.08:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.09.03-06.56.08:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.09.03-06.56.08:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.09.03-06.56.08:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.09.03-06.56.08:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.09.03-06.56.08:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.09.03-06.56.09:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.09.03-06.56.09:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.09.03-06.56.09:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.09.03-06.56.09:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.09.03-06.56.09:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.09.03-06.56.09:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.09.03-06.56.09:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.09.03-06.56.09:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.09.03-06.56.09:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.09.03-06.56.09:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.09.03-06.56.09:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.09.03-06.56.10:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.09.03-06.56.10:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.09.03-06.56.10:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.09.03-06.56.10:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.09.03-06.56.10:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.09.03-06.56.10:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.09.03-06.56.11:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.09.03-06.56.11:579][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2019.09.03-06.56.12:133][  0]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Floor_400x400ECB6EAFF4B3DDB5AB31CC8A8CDF1DD08.tmp' to '../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.09.03-06.56.12:139][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.09.03-06.56.12:143][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.03-06.56.12:144][  0]LightingResults: New page: ライティングのビルド
+[2019.09.03-06.56.12:146][  0]MapCheck: New page: マップをチェック
+[2019.09.03-06.56.12:146][  0]LightingResults: New page: ライティングのビルド
+[2019.09.03-06.56.12:176][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.09.03-06.56.13:525][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.03-06.56.14:226][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.03-06.56.14:260][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.09.03-06.56.14:260][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.03-06.56.14:260][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.163ミリ秒かかりました。
+[2019.09.03-06.56.14:260][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.117
+[2019.09.03-06.56.14:870][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-06.56.14:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-06.56.14:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-06.56.14:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-06.56.14:919][  0]LogCollectionManager: Loaded 0 collections in 0.000989 seconds
+[2019.09.03-06.56.15:011][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Saved/Collections/' took 0.01s
+[2019.09.03-06.56.15:011][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Developers/kingw/Collections/' took 0.01s
+[2019.09.03-06.56.15:011][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Collections/' took 0.01s
+[2019.09.03-06.56.15:011][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.03-06.56.15:021][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2864 classes and 726 folders.
+[2019.09.03-06.56.15:204][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.03-06.56.15:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-06.56.15:298][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.03-06.56.15:300][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.09.03-06.56.15:403][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.03-06.56.15:405][  0]LogSlate: Took 0.000685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.09.03-06.56.15:410][  0]LogSlate: Took 0.003986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.09.03-06.56.15:410][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.03-06.56.15:673][  0]LogSlate: Took 0.258527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.03-06.56.15:811][  0]LogRenderer: Reallocating scene render targets to support 1216x572 Format 9 NumSamples 1 (Frame:1).
+[2019.09.03-06.56.16:062][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.03-06.56.16:247][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.03-06.56.16:247][  0]LogLoad: (Engine Initialization) Total time: 45.61 seconds
+[2019.09.03-06.56.16:247][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.03-06.56.16:269][  0]LogOcInput: OculusInput is initialized
+[2019.09.03-06.56.16:398][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.09.03-06.56.25:007][693]LogAssetRegistry: Asset discovery search completed in 49.7413 seconds
+[2019.09.03-06.56.25:011][693]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.03-06.56.25:011][693]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.09.03-06.56.55:304][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-06.56.56:002][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-06.56.58:800][ 27]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: URL: C:\Users\kingw\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2019.09.03-06.56.58:801][ 27]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.09.03-06.57.08:230][ 73]LogSlate: Window 'ソースコントロールへログインする' being destroyed
+[2019.09.03-06.57.11:769][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-06.57.13:696][699]SourceControl: fatal: E:/Epic Games/UE_4.22/Engine/Content: 'E:/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.03-06.57.13:839][699]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/PetitContest12.uproject' is not a standard unreal filename or a long path name. Reason: パスは 4 文字以下でなくてはいけません
+[2019.09.03-06.57.13:855][699]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.03-06.57.14:668][699]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.812 s
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: 
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 849]
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/PetitContest12.uproject' is not a standard unreal filename or a long path name. Reason: パスは 4 文字以下でなくてはいけません
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: Stack: 
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffcb2a81097 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffcb273ea0a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffca9915615 UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffca991576b UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffca4c38dfc UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffca4bf59e3 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffca4bf522a UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffca4c0c451 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffc99cdb133 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffc99cdfbb1 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffca991a3b7 UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffcae7409b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffcaef5d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ff684aa6bb1 UE4Editor.exe!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ff684ab554c UE4Editor.exe!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ff684ab55ca UE4Editor.exe!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ff684ac316c UE4Editor.exe!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ff684ac5b8e UE4Editor.exe!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffd10cb7974 KERNEL32.DLL!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: [Callstack] 0x00007ffd1345a271 ntdll.dll!UnknownFunction []
+[2019.09.03-06.57.14:668][699]LogOutputDevice: Error: 
+[2019.09.03-06.57.14:687][699]LogStats:                SubmitErrorReport -  0.000 s
