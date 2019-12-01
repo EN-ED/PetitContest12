@@ -1875,265 +1875,256 @@
 "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Intermediate/AssetRegistryCache/311563bb.bin" 1875
 "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Intermediate/AssetRegistryCache/c90e3f55.bin" 1876
 "../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/L_Title.umap" 1877
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1878
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1879
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1880
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1881
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1882
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1883
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1884
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1885
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1886
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1887
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 1888
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1889
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1890
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1891
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1892
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1893
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1894
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1895
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1896
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1897
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1898
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 1899
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1900
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1901
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1902
-"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1903
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1904
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Intermediate/AssetRegistryCache/1c7cda2b.bin" 1905
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1906
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1907
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1908
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1909
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1910
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 1911
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Anim/AnimBP_Fly.uasset" 1912
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Anim/ThirdPersonJump_Loop_Title.uasset" 1913
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1914
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1915
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_BlueCharacter.uasset" 1916
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1917
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1918
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1919
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1920
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1921
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1922
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1923
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1924
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1925
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1926
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1927
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1928
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1929
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1930
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1931
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1932
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1933
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1934
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1935
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1936
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1937
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1938
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1939
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1940
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1941
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1942
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1943
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Blue.uasset" 1944
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_GreenCharacter.uasset" 1945
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Green.uasset" 1946
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_RedCharacter.uasset" 1947
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Red.uasset" 1948
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_YellowCharacter.uasset" 1949
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Yellow.uasset" 1950
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_End.uasset" 1951
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_ClearBlue.uasset" 1952
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_ClearRed.uasset" 1953
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyBlend.uasset" 1954
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 1955
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 1956
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideOpacityMask.uasset" 1957
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyBlueBlend.uasset" 1958
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyGreenBlend.uasset" 1959
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyRedBlend.uasset" 1960
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyYellowBlend.uasset" 1961
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___B67F58D9B009F5A84C4B3E147C7602C5BB2FC5D4.udd" 1962
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F8954A443E5678FAB207BF39351D9144571E8A49.udd" 1963
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___19A73EAF48312C8F5F436B13C36C7E8BDECB66C0.udd" 1964
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3BBAA5AA8CACF7AFC94444CB1CDD9886EB3DE249.udd" 1965
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 1878
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1879
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1880
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1881
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1882
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1883
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1884
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1885
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1886
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1887
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1888
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 1889
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1890
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1891
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1892
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1893
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1894
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1895
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1896
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1897
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1898
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1899
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 1900
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1901
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1902
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1903
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1904
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1905
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Intermediate/AssetRegistryCache/1c7cda2b.bin" 1906
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 1907
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1908
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1909
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1910
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1911
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1912
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 1913
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Anim/AnimBP_Fly.uasset" 1914
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Anim/ThirdPersonJump_Loop_Title.uasset" 1915
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1916
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1917
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_BlueCharacter.uasset" 1918
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1919
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1920
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1921
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1922
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1923
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1924
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1925
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1926
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1927
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1928
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1929
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1930
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1931
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1932
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1933
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1934
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1935
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1936
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1937
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1938
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1939
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1940
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1941
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1942
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1943
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1944
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1945
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Blue.uasset" 1946
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_GreenCharacter.uasset" 1947
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Green.uasset" 1948
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_RedCharacter.uasset" 1949
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Red.uasset" 1950
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_YellowCharacter.uasset" 1951
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_Yellow.uasset" 1952
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_End.uasset" 1953
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_ClearBlue.uasset" 1954
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_ClearRed.uasset" 1955
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyBlend.uasset" 1956
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 1957
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 1958
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideOpacityMask.uasset" 1959
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyBlueBlend.uasset" 1960
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyGreenBlend.uasset" 1961
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyRedBlend.uasset" 1962
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Material/M_UE4Man_BodyYellowBlend.uasset" 1963
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___B67F58D9B009F5A84C4B3E147C7602C5BB2FC5D4.udd" 1964
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___19A73EAF48312C8F5F436B13C36C7E8BDECB66C0.udd" 1965
 "C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D5C19461A2FBB74BCB6C60FA5304CA2749FDF559.udd" 1966
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___9D9E2A37C033D7594000B6AC9133B4C27CC4C767.udd" 1967
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3ECEE53FA0A56B56A1DDD76FFEE32C058D3F43F4.udd" 1968
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8559B7E8861BB12C444B0849636D044352672014.udd" 1969
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___976824B7D53CE12AFD01693C00C3A031C7D4581D.udd" 1970
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2443BBB86ADDECF24A5CFD7533EDD3EADD9E91E8.udd" 1971
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3FF762A7E3C6AFACE15BF6F54E0B865AF82A81A6.udd" 1972
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FD9584BFC11C27151CA807AF8D7EA629706D2B67.udd" 1973
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___42C5F062C793624379EBF0129965103387C105BA.udd" 1974
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___37AAD701B4D89FF54308A1C16C3B59450548360A.udd" 1975
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___B86F8D3E99121798C899F4AC581DA40B31D914E4.udd" 1976
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0F10C508986880E19CE0C3E09CD5160840E61E72.udd" 1977
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___570C412A077BDA1C20924DF00E5527E48022D8B6.udd" 1978
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___C80089A1611EBB3F7B353F31440D6EAD0C9ACF35.udd" 1979
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___768C4CE52A989A1850DB7D9227C0F1A62C8ECA96.udd" 1980
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___66775008F1BB1A2F70110174C5B685237444A9B8.udd" 1981
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1982
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1983
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1984
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1985
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___16E52E4D3249B885819DE745D2A131A9BEDE23D1.udd" 1986
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E1741410E0223F3336A5E00AC6087354432E3D58.udd" 1987
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___69503C86C5281981787A74BC02F011AACFC26C5E.udd" 1988
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F3A2C2144D783316C78B92FA9D3665D479B8B85E.udd" 1989
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CA915D0F074E1D8C453D433352D813B08B133A9E.udd" 1990
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___C4F29D8115FC42BF20619EF068D749E0BEF1D30F.udd" 1991
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1992
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1993
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1994
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1995
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1996
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1997
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1998
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1999
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2000
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2001
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2002
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2003
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2004
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2005
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2006
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2007
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2008
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2009
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2010
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2011
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2012
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2013
-"../../../Engine/Content/Maps/Entry.umap" 2014
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2015
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/Title/BP_Title_GreenCharacter.uasset" 2016
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2017
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2018
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2019
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2020
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2021
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2022
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2023
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2024
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2025
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/Title/BP_Title_GreenLight.uasset" 2026
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2027
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_Title.uasset" 2028
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/L_Title_BuiltData.uasset" 2029
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Geometry/Meshes/1M_Cube.uasset" 2030
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Geometry/Meshes/CubeMaterial.uasset" 2031
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Geometry/Meshes/TemplateFloor.uasset" 2032
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Sound/SC_BGM.uasset" 2033
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Wind06.uasset" 2034
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_048A909F4ECB9C54E67610A1836A0BC4__1_0_0_0_2_13315_0.udd" 2035
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_AA9EEFE54759BB69B597688AE14EBA78__1_0_0_0_2_13315_0.udd" 2036
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2037
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__D4835C8AD9B75393C5220A646FADDA9E06F38555.udd" 2038
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4D0E476A465BE9C5434DBABA839E9__73A38BDAD6E5907958D420DF9793AB27DA0188EF.udd" 2039
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__751FC73FD09B60C066975BAD3C596792F110208D.udd" 2040
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__B9C0C5721CCF80B98963AECD2123F5A48BCECB49.udd" 2041
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__57ECC71A01AE6C9FB214E84E383A43B8559AF4A1.udd" 2042
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__8F1725FC4E400093CB8DA2CD4377900BFC8B90E7.udd" 2043
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__6F189EDD230628C6B755E665EA770B30F7854323.udd" 2044
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__6C26698EA2D2771878BFBEC6C93479996BA04398.udd" 2045
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__9E8ADE44A135940F82911BDC9459AEBCFC04774F.udd" 2046
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0990135041BAA5D4B9C81987580C6CEB__18B3E3C5B050967E3CAD393B1950A6673D2D0000.udd" 2047
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__7D895F349AAF24726AB21669F73DF47116E56742.udd" 2048
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__0C6434EE387CD965A9B17D334F19C38DE9441994.udd" 2049
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__07EBDAD35D9B8C48D75633E50E01537B58F7BB66.udd" 2050
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__1691F123E52426CCDE27CF9130024F03E5FAF90A.udd" 2051
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_62C891BF401753E73CE1BBB4AB759__FC116F4F043871FC6595B43CDC7F9F78493B613A.udd" 2052
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__049F770D16120F0047689C54C02B97D3C5562BCD.udd" 2053
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__F171609D392296CE28257B7C9ABBF46F1C615A17.udd" 2054
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__2275AE4C7E370F8E3E06035A42702EE33156CFAE.udd" 2055
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 2056
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_BlueLight.uasset" 2057
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_GreenLight.uasset" 2058
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_NextStageBlend.uasset" 2059
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_RedLight.uasset" 2060
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_Widget_NextStage.uasset" 2061
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_NextStage.uasset" 2062
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetColorDecription.uasset" 2063
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_ColorDecription.uasset" 2064
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetLightDescription.uasset" 2065
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_LightDescription.uasset" 2066
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetLightEscape.uasset" 2067
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_LightEscape.uasset" 2068
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetManyColorDescription.uasset" 2069
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_ManyColorDescription.uasset" 2070
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetUp.uasset" 2071
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_Up.uasset" 2072
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_YellowLight.uasset" 2073
-"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 2074
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_D4B1E7E34AD938CE6FD69880440329E3__1_0_0_0_2_13315_0.udd" 2075
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_89F0D99741A69BC89AEC0FADE5AF3E3E__1_0_0_0_2_13315_0.udd" 2076
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__B16D6FADC641085CA1940AA9C7B7BD631F89C75C.udd" 2077
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__774B714CF8906150409C4BB9362800AAF9F3B1D3.udd" 2078
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__B7A437E672330CC3D8219BA03D018D70F1FF338F.udd" 2079
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__0110840F51CCB01ACCBC469FFB54D993A1D68417.udd" 2080
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__C88B7EC66863220F9A767ED3A99C5515104CA83A.udd" 2081
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__A2E59662EE8152EDDD428EDED923D25B5213ECD0.udd" 2082
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__F4877A75A2884E1D340A1FD75ACDB016C2174D74.udd" 2083
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__4D8BB02877D140CAC09F892541B8623AE38AB36E.udd" 2084
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__858E9ED8596BF7BCC606D1081B23ECAB964C0891.udd" 2085
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__0F4F00842328C901E08EA8E89077928B19AC3DCE.udd" 2086
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__154E06B3166E8B374CDAD100EE0BFE7E0882CF90.udd" 2087
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__EAF0E799756B816AA1E7F14B254B825463B7A32E.udd" 2088
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6D84B3C445483EEFFAE5CAAC298D7__A8C12F43BA6FE011DB35BA08159A6BEC731C5B48.udd" 2089
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__3EDB2BD488DBF2F0E14DBF0CE6D48F17189AC620.udd" 2090
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__AD0AEF4DAD13C83D98999C51E9AA87F749836F3B.udd" 2091
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__F472EBAB1FD67DBCE4BD6E35B8EDA3E57EF5D54B.udd" 2092
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2093
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__3518348A7A9A28FF9C88C5F8094B5A3B3B995C14.udd" 2094
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__DC1563726B9AD4A323316C4D08EB19929AFDB6D4.udd" 2095
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__2D527319205C0398BA559EE9C0F615886F11FC6F.udd" 2096
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__49664AD876E0391F164820EC1B72018AD2FBE7ED.udd" 2097
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__A477110D78DCFAACD3E612B91B9FC51A02A1C957.udd" 2098
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__445B223B4B617B76A120B830E811A9A8C09EE3E2.udd" 2099
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__148BA247118CE17038A4585A7A530879CBD8B190.udd" 2100
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__B3524CC809B79D62AAB73B123AB03A0D3642D8CB.udd" 2101
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__EB7FD7E22836A4B47CC4D7D21B75D1A2134C60F7.udd" 2102
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__2E1F29BEE1C017F72293D2332BFF5DA0EA10A80F.udd" 2103
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__128A8B7C00D23647301E5A3627EDBA8A48726C79.udd" 2104
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__D2B108639B6B69831D856E4A05A55FFD59FB1592.udd" 2105
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CEA878684A5A29454870E5943257DC59__9F8ED37BCBF831CE72204E416A1F04383D5D72BD.udd" 2106
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__97635531F73989A0A41C056066D159DF45D6A6A2.udd" 2107
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__B3DE44CDBB16AF30EC344205EB335ECA6BE3A7ED.udd" 2108
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__231676CE03A5BDD3922BF9897376633CB74D13D6.udd" 2109
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__1173EAE1AD79CA20EB0BEB7348E9008943DBB007.udd" 2110
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__9BC4E490C6920089E4BE62CBDA31932F603B3C1D.udd" 2111
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__574A29CF8246F04B4981D36E225CA7636AD3B63E.udd" 2112
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__74902EE5178F27685EDA8114D1E102710B966278.udd" 2113
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__9F8D3C86B95D5356144F0DE30F3BB84BDAB28B68.udd" 2114
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__AD3B8A9FDA9DB7CDEAE8C1C164F75CCDD6014523.udd" 2115
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__5F3BCE1267DF65179583B2E9572FBE5A35FBCD11.udd" 2116
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__69C7B609F846A45311E4471B905AEB1F7434E8EC.udd" 2117
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__7772E3146959E2221F3768AE1046A8CEEEB81249.udd" 2118
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__D9A217BE15B9B99E115DF262C873F9A9CF1BD946.udd" 2119
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__C322908E6946632F197E72268E61441A38247807.udd" 2120
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__66D2850BE92A27F11B5DBCEB1DB49313BA0E76EB.udd" 2121
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__9B0FBDD9D566F778D57B1C151492B7ABFCE95A07.udd" 2122
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__EBF9ED4B9A0BA51AE2E28645E0BD9FD1C7E5172F.udd" 2123
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__D25E3F2254C84AEA765D9138298501DD8D9DBF67.udd" 2124
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__A1D291B87767691799A97100BCA4018140040FF4.udd" 2125
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__4FF1A3E7435510DD341273170739AD86114A5BCA.udd" 2126
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__206EF96310CBAB10E2A16BCE5D3AF44B8BFCB02A.udd" 2127
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__FE35B7ACADD92AAEF031516DE88D4119CA714308.udd" 2128
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__CB57D1E38BA7144D461673176798264A2C28C2C4.udd" 2129
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__63BDBBF80467A838737798B55E263561272E455F.udd" 2130
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__F5DD9D7C3D7EAB8EE5FB51203AF8D2D2AC557EE3.udd" 2131
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__2407D98F6739941C24B71DBA900B11EF99469FD2.udd" 2132
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__B1C1F2866555125F2A5696F0E6B06A71BC294384.udd" 2133
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__FAF3181CE224C4ABA24B3FD9BA1EB8D43190AB2A.udd" 2134
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__C938307232F37EA4F810CA3C7B10B88FC1F62293.udd" 2135
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A5E1FC4FD71B699B4F0B843EE44__84559726C8579650E15FB8FC342EF4E1F77308EA.udd" 2136
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__4402EE00CBE5EB2E1E7509423D175A7AD612048A.udd" 2137
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__A061FF797BA358D97D40F4999EA890D79C898213.udd" 2138
-"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__6B5AA769C9B68EA523F4E47203BEF84FB41539CE.udd" 2139
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3ECEE53FA0A56B56A1DDD76FFEE32C058D3F43F4.udd" 1967
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___976824B7D53CE12AFD01693C00C3A031C7D4581D.udd" 1968
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3FF762A7E3C6AFACE15BF6F54E0B865AF82A81A6.udd" 1969
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___42C5F062C793624379EBF0129965103387C105BA.udd" 1970
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___B86F8D3E99121798C899F4AC581DA40B31D914E4.udd" 1971
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___570C412A077BDA1C20924DF00E5527E48022D8B6.udd" 1972
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___768C4CE52A989A1850DB7D9227C0F1A62C8ECA96.udd" 1973
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1974
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1975
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1976
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1977
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___16E52E4D3249B885819DE745D2A131A9BEDE23D1.udd" 1978
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___69503C86C5281981787A74BC02F011AACFC26C5E.udd" 1979
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CA915D0F074E1D8C453D433352D813B08B133A9E.udd" 1980
+"C:/Users/kingw/AppData/Local/Temp/UnrealShaderWorkingDir/9259FD5D4B9889BF8AB0CC90E0D28135/0/WorkerOutputOnly.out" 1981
+"C:/Users/kingw/AppData/Local/Temp/UnrealShaderWorkingDir/9259FD5D4B9889BF8AB0CC90E0D28135/1/WorkerOutputOnly.out" 1982
+"C:/Users/kingw/AppData/Local/Temp/UnrealShaderWorkingDir/9259FD5D4B9889BF8AB0CC90E0D28135/2/WorkerOutputOnly.out" 1983
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1984
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1985
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1986
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1987
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1988
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1989
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1990
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1991
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1992
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1993
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1994
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1995
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1996
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1997
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1998
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1999
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2000
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2001
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2002
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2003
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2004
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2005
+"../../../Engine/Content/Maps/Entry.umap" 2006
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2007
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/Title/BP_Title_GreenCharacter.uasset" 2008
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2009
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2010
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2011
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2012
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2013
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2014
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2015
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2016
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2017
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/Title/BP_Title_GreenLight.uasset" 2018
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2019
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_Title.uasset" 2020
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/L_Title_BuiltData.uasset" 2021
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Geometry/Meshes/1M_Cube.uasset" 2022
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Geometry/Meshes/CubeMaterial.uasset" 2023
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/Geometry/Meshes/TemplateFloor.uasset" 2024
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Sound/SC_BGM.uasset" 2025
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/StarterContent/Audio/Starter_Wind06.uasset" 2026
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_048A909F4ECB9C54E67610A1836A0BC4__1_0_0_0_2_13315_0.udd" 2027
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_AA9EEFE54759BB69B597688AE14EBA78__1_0_0_0_2_13315_0.udd" 2028
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2029
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4D0E476A465BE9C5434DBABA839E9__73A38BDAD6E5907958D420DF9793AB27DA0188EF.udd" 2030
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__D4835C8AD9B75393C5220A646FADDA9E06F38555.udd" 2031
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__751FC73FD09B60C066975BAD3C596792F110208D.udd" 2032
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__B9C0C5721CCF80B98963AECD2123F5A48BCECB49.udd" 2033
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__07EBDAD35D9B8C48D75633E50E01537B58F7BB66.udd" 2034
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__57ECC71A01AE6C9FB214E84E383A43B8559AF4A1.udd" 2035
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__9E8ADE44A135940F82911BDC9459AEBCFC04774F.udd" 2036
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__8F1725FC4E400093CB8DA2CD4377900BFC8B90E7.udd" 2037
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__6C26698EA2D2771878BFBEC6C93479996BA04398.udd" 2038
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5CCA5FBF44280EA2152B7584E97C5C48__6F189EDD230628C6B755E665EA770B30F7854323.udd" 2039
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1024D3234B1EE3F99D08729F6069A__1691F123E52426CCDE27CF9130024F03E5FAF90A.udd" 2040
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_0990135041BAA5D4B9C81987580C6CEB__18B3E3C5B050967E3CAD393B1950A6673D2D0000.udd" 2041
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__7D895F349AAF24726AB21669F73DF47116E56742.udd" 2042
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_62C891BF401753E73CE1BBB4AB759__FC116F4F043871FC6595B43CDC7F9F78493B613A.udd" 2043
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__F171609D392296CE28257B7C9ABBF46F1C615A17.udd" 2044
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__0C6434EE387CD965A9B17D334F19C38DE9441994.udd" 2045
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__049F770D16120F0047689C54C02B97D3C5562BCD.udd" 2046
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_57214225493E3B67D136859FAA845__2275AE4C7E370F8E3E06035A42702EE33156CFAE.udd" 2047
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_BlueLight.uasset" 2048
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_GreenLight.uasset" 2049
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_NextStageBlend.uasset" 2050
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_RedLight.uasset" 2051
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_Widget_NextStage.uasset" 2052
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_NextStage.uasset" 2053
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetColorDecription.uasset" 2054
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_ColorDecription.uasset" 2055
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetLightDescription.uasset" 2056
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_LightDescription.uasset" 2057
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetLightEscape.uasset" 2058
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_LightEscape.uasset" 2059
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetManyColorDescription.uasset" 2060
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_ManyColorDescription.uasset" 2061
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_WidgetUp.uasset" 2062
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/Widget/Widget_Up.uasset" 2063
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/My/BP/BP_YellowLight.uasset" 2064
+"../../../../../Documents/Unreal Projects/PetitContest12/PetitContest12/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 2065
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_D4B1E7E34AD938CE6FD69880440329E3__1_0_0_0_2_13315_0.udd" 2066
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_89F0D99741A69BC89AEC0FADE5AF3E3E__1_0_0_0_2_13315_0.udd" 2067
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2068
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__B16D6FADC641085CA1940AA9C7B7BD631F89C75C.udd" 2069
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__774B714CF8906150409C4BB9362800AAF9F3B1D3.udd" 2070
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__0110840F51CCB01ACCBC469FFB54D993A1D68417.udd" 2071
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__C88B7EC66863220F9A767ED3A99C5515104CA83A.udd" 2072
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__B7A437E672330CC3D8219BA03D018D70F1FF338F.udd" 2073
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__F4877A75A2884E1D340A1FD75ACDB016C2174D74.udd" 2074
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__A2E59662EE8152EDDD428EDED923D25B5213ECD0.udd" 2075
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A298A840CB88614C861BBD2ABC4__4D8BB02877D140CAC09F892541B8623AE38AB36E.udd" 2076
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__858E9ED8596BF7BCC606D1081B23ECAB964C0891.udd" 2077
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9618ED2B40F16740C4D81CAE4F16E__EAF0E799756B816AA1E7F14B254B825463B7A32E.udd" 2078
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__0F4F00842328C901E08EA8E89077928B19AC3DCE.udd" 2079
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6D84B3C445483EEFFAE5CAAC298D7__A8C12F43BA6FE011DB35BA08159A6BEC731C5B48.udd" 2080
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__128A8B7C00D23647301E5A3627EDBA8A48726C79.udd" 2081
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__DC1563726B9AD4A323316C4D08EB19929AFDB6D4.udd" 2082
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__154E06B3166E8B374CDAD100EE0BFE7E0882CF90.udd" 2083
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__3EDB2BD488DBF2F0E14DBF0CE6D48F17189AC620.udd" 2084
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2522CA304D8FA3AC8A5B5D8652D19__D2B108639B6B69831D856E4A05A55FFD59FB1592.udd" 2085
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__AD0AEF4DAD13C83D98999C51E9AA87F749836F3B.udd" 2086
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__49664AD876E0391F164820EC1B72018AD2FBE7ED.udd" 2087
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__3518348A7A9A28FF9C88C5F8094B5A3B3B995C14.udd" 2088
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__F472EBAB1FD67DBCE4BD6E35B8EDA3E57EF5D54B.udd" 2089
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__A477110D78DCFAACD3E612B91B9FC51A02A1C957.udd" 2090
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7B63B0E543E553779C86578E67621C80__2D527319205C0398BA559EE9C0F615886F11FC6F.udd" 2091
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__EB7FD7E22836A4B47CC4D7D21B75D1A2134C60F7.udd" 2092
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__148BA247118CE17038A4585A7A530879CBD8B190.udd" 2093
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__445B223B4B617B76A120B830E811A9A8C09EE3E2.udd" 2094
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_9B7989B94BF8910F2F4A18B4857B1ADD__B3524CC809B79D62AAB73B123AB03A0D3642D8CB.udd" 2095
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__2E1F29BEE1C017F72293D2332BFF5DA0EA10A80F.udd" 2096
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CEA878684A5A29454870E5943257DC59__9F8ED37BCBF831CE72204E416A1F04383D5D72BD.udd" 2097
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__9BC4E490C6920089E4BE62CBDA31932F603B3C1D.udd" 2098
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__B3DE44CDBB16AF30EC344205EB335ECA6BE3A7ED.udd" 2099
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_373E755C4C3119BD00C751A3BFECE705__1173EAE1AD79CA20EB0BEB7348E9008943DBB007.udd" 2100
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__97635531F73989A0A41C056066D159DF45D6A6A2.udd" 2101
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__574A29CF8246F04B4981D36E225CA7636AD3B63E.udd" 2102
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__9F8D3C86B95D5356144F0DE30F3BB84BDAB28B68.udd" 2103
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__74902EE5178F27685EDA8114D1E102710B966278.udd" 2104
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__AD3B8A9FDA9DB7CDEAE8C1C164F75CCDD6014523.udd" 2105
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7D822AF421CF743787B5483FFEB356__231676CE03A5BDD3922BF9897376633CB74D13D6.udd" 2106
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__66D2850BE92A27F11B5DBCEB1DB49313BA0E76EB.udd" 2107
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__7772E3146959E2221F3768AE1046A8CEEEB81249.udd" 2108
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__5F3BCE1267DF65179583B2E9572FBE5A35FBCD11.udd" 2109
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4A0E22D94E6976818E56B3B21F87BA1__EBF9ED4B9A0BA51AE2E28645E0BD9FD1C7E5172F.udd" 2110
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__D25E3F2254C84AEA765D9138298501DD8D9DBF67.udd" 2111
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__69C7B609F846A45311E4471B905AEB1F7434E8EC.udd" 2112
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__D9A217BE15B9B99E115DF262C873F9A9CF1BD946.udd" 2113
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__A1D291B87767691799A97100BCA4018140040FF4.udd" 2114
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__9B0FBDD9D566F778D57B1C151492B7ABFCE95A07.udd" 2115
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D83A7DA54C3A138A29BB8DBD81E69FB__C322908E6946632F197E72268E61441A38247807.udd" 2116
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__F5DD9D7C3D7EAB8EE5FB51203AF8D2D2AC557EE3.udd" 2117
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__4FF1A3E7435510DD341273170739AD86114A5BCA.udd" 2118
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__63BDBBF80467A838737798B55E263561272E455F.udd" 2119
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BF1C02634651D98A25FFD7B6EA342__FE35B7ACADD92AAEF031516DE88D4119CA714308.udd" 2120
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__B1C1F2866555125F2A5696F0E6B06A71BC294384.udd" 2121
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__206EF96310CBAB10E2A16BCE5D3AF44B8BFCB02A.udd" 2122
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__CB57D1E38BA7144D461673176798264A2C28C2C4.udd" 2123
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__2407D98F6739941C24B71DBA900B11EF99469FD2.udd" 2124
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__C938307232F37EA4F810CA3C7B10B88FC1F62293.udd" 2125
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__A061FF797BA358D97D40F4999EA890D79C898213.udd" 2126
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E0A2786941A13A1FE1DD248EC1532__FAF3181CE224C4ABA24B3FD9BA1EB8D43190AB2A.udd" 2127
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__4402EE00CBE5EB2E1E7509423D175A7AD612048A.udd" 2128
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_71A5E1FC4FD71B699B4F0B843EE44__84559726C8579650E15FB8FC342EF4E1F77308EA.udd" 2129
+"C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9FC9F7F64567BC1A9495E6988C3C7__6B5AA769C9B68EA523F4E47203BEF84FB41539CE.udd" 2130
